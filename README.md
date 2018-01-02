@@ -1,2 +1,2 @@
 # ThingAtTime
-ThingAtTime app from David Zwerdling
+ThingAtTime app base on David Zwerdling book
